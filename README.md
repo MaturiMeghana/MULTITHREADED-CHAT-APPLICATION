@@ -22,3 +22,4 @@ Educational Purposes	Excellent for students learning Java, networking, or concur
 LAN Chat Tool	Lightweight communication tool for users on the same local network (e.g., school, office).
 
 *output*
+![Image](https://github.com/user-attachments/assets/5295de85-fb02-4623-b6ee-e2e67b990785)
